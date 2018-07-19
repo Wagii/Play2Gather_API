@@ -1,0 +1,19 @@
+{
+  "name": "play2gather_api",
+  "version": "1.0.0",
+  "description": "API Used for the Play2Gather App",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wagii/Play2Gather_API.git"
+  },
+  "author": "Wagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wagii/Play2Gather_API/issues"
+  },
+  "homepage": "https://github.com/Wagii/Play2Gather_API#readme"
+}
